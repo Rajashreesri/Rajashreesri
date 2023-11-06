@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajashreesri
+- 👋 Hi, I’m @Rajashree Neethipathi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning artificial inteeligence and data science
 - 💞️ I’m looking to collaborate on google
